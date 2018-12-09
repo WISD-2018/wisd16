@@ -14,7 +14,7 @@
                             </div>
                         @endif
 
-                        You are know in bb.b1!
+                        You are know in bb.b2!
                     </div>
                 </div>
             </div>
